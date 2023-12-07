@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- I am a master student majoring in software engineering at Zhejiang University🤓. 
+- My current research focus on intelligent Software engineering, Reliability of Opensource Software, Rust🧐.
+- I also interest in LLM, paly around with various opensource software🥰.
 <!--
 **mirthfulLee/mirthfulLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
